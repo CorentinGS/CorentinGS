@@ -2,7 +2,7 @@
 
 ![Metrics](https://github.com/yumenetwork/yumenetwork/blob/main/github-metrics.svg)
 
- <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.svg">
+ <img src="https://github.com/yumenetwork/yumenetwork/blob/master/metrics.plugin.languages.svg">
 
 
 
