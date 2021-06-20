@@ -2,6 +2,9 @@
 
 ![Metrics](https://github.com/yumenetwork/yumenetwork/blob/main/github-metrics.svg)
 
+ <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.languages.svg">
+
+
 
 <!--
 **yumenetwork/yumenetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
