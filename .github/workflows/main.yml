@@ -12,5 +12,12 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..." 
+          plugin_la nguages_threshold: 2%                              
+          plugin_languages_limit: 6                                   
+          plugin_languages_sections: most-used   
+          plugin_languages_indepth: no   
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
