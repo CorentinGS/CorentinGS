@@ -27,6 +27,6 @@ jobs:
           plugin_people_limit: 15                    
           plugin_people_size: 28                     # Size in pixels of displayed avatars
           plugin_people_identicons: no               # Use avatars (do not use identicons)
-          plugin_people_thanks: charibou
+          plugin_people_thanks: joelgiaufer
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
