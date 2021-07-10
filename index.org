@@ -1,0 +1,56 @@
+#+title: Yume
+#+author: Yume
+
+
+* Intro
+** Bio
+- Yume
+- 18
+- France, Nice
+- Male
+
+** Operating System
+- Distro : *Arch Linux*
+- Editor : *Doom emacs*
+- WM : *Openbox*
+
+** Social network
+- [[https://discordapp.com/users/282233191916634113/][Discord]]
+- [[https://twitter.com/Yume_Network/][Twitter]]
+- [[https://www.reddit.com/user/typicalyume/][Reddit]]
+- [[https://github.com/yumenetwork][Github]]
+
+** Current projects
+
+| Name            | Description                                     | Main Language                | State       | Authors |
+|-----------------+-------------------------------------------------+------------------------------+-------------+---------|
+| Flash Mem       | This is a secret                                | Java                         | Designing   | Yume    |
+| Kitsu Bot       | A custom discord bot that generate guilds stats | Java / Postgresql / Metabase | In Progress | Yume    |
+| NotepadQT       | Qt text editor                                  | C++ / QT                     | In Progress | Yume    |
+| Yume's Theme    | A custom better discord theme                   | CSS                          | Designing   | Yume    |
+| Gauntlet Reborn | An arcade game rewritten in C                   | C / SDL2                     | To review   | Yume    |
+| StartPage       | A custom startpage                              | JS / HTML                    | Designing   | Yume    |
+| TinCord         | A custom discord bot to meet people             | Clojure                      | Designing   | Yume    |
+| Schalculator    | A simple calculator (educational purpose)       | Scheme                       | In Progress | Yume    |
+
+** Learning
+
+**** STRT Qt
+**** STRT Scheme
+**** STRT Emacs & Org-mode
+**** TODO Clojure
+**** IDEA Rust
+
+* FAQ
+
+** What's your hobbies
+
+#+BEGIN_QUOTE
+As a pilot, I like everything related to aeronautics, including flying. I like to read books, watch series and documentaries. I also like to play volleyball, piano and chess.
+#+END_QUOTE
+
+** What's your favorite Linux distro
+
+#+BEGIN_QUOTE
+Well, I really like archlinux. But I also like other distros such as Fedora, OpenSuse or Solus.
+#+END_QUOTE
