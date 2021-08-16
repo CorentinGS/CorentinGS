@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on **anything that I might find fun**
 - 🤔 I’m looking for help with **my java discord bot**
 - 💬 Ask me about **anything you want**
-- 📫 How to reach me: **https://corentings.github.io/corentings/**
+- 📫 How to reach me: **https://CorentinGS.github.io/CorentinGS/**
