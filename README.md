@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/yumenetwork/yumenetwork/blob/main/github-metrics.svg)
+![Metrics](https://github.com/CorentinGS/CorentinGS/blob/main/github-metrics.svg)
 
 - 🔭 I’m currently mostly working on **Memnix**
 - 🌱 I’m currently learning **Common Lisp**
