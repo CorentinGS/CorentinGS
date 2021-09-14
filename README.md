@@ -14,6 +14,7 @@
 - 👯 I’m looking to collaborate on **anything that I might find fun**
 - ☕ I’m creating a friendly community on **[discord](https://discord.gg/VBxbhsmv3y)**
 - 💬 Ask me about **anything you want**
+- ⭐ I'm also known as **Yume** & **Le Petit Prince**
 
 ## 🚀 Technologies
 
