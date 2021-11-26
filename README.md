@@ -1,51 +1,62 @@
-## Hey 👋, I'm [Corentin!](https://github.com/CorentinGS/)
+<h1 align="center">Hi 👋, I'm Corentin GS</h1>
+<h3 align="center"><i>A passionate Student at <a href= "https://univ-cotedazur.fr/">Université Côte d'Azur</a></i></h3>
 
-*Student at [Université Côte d'Azur](https://univ-cotedazur.fr/)* 🧑‍🎓
+---
 
-<p align="center">
-  <a href="https://github.com/CorentinGS" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@CorentinGS-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/corentin-giaufer-saubert-2684381b3/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-      <a href="https://discord.com/users/282233191916634113" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
-</p>
+<h3 align= "left">🐑 More about me:</h3>
 
-### 🐑 A little more about me...
-
-- 🌱 I’m currently learning **Common Lisp**, **Rust** & **Apache Kafka**
-- 👯 I’m looking to collaborate on **anything that I might find fun**
+- 🔭 I’m currently working on [Memnix](https://github.com/memnix)
+- 🤝 I’m looking for help with the [frontend](https://github.com/memnix/memnix-spa)
+- 🌱 I’m currently learning **Common Lisp** and **Apache Kafka**
 - ☕ I’m creating a friendly community on **[discord](https://discord.gg/VBxbhsmv3y)**
-- 💬 Ask me about **anything you want**
-- ⭐ I'm also known as **Yume** & **Le Petit Prince**
 
-## 🚀 Technologies
+- 👨‍💻 All of my projects are available at [https://corentings.github.io/](https://corentings.github.io/)
+
+- 📝 I regularly write articles on [https://corentings.github.io/blog/](https://corentings.github.io/blog/)
+
+- 💬 Ask me about **GNU/Linux or The Little Prince**
+
+- 📫 How to reach me **c.giaufersaubert@outlook.com**
+
+- 📄 Know about my experiences [https://corentings.github.io/about/](https://corentings.github.io/about/)
+
+<h3 align="left">🦊 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/corentin-giaufer-saubert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentin-giaufer-saubert" height="30" width="40" /></a>
+<a href="https://discord.gg/NRqkBEXeh7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NRqkBEXeh7" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">🚀 Languages and Tools:</h3>
+<p align="center">
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://archlinux.org/" target="_blank"><img alt="ArchLinux" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40" height="40"></a>
+<a href="https://getfedora.org/" target="_blank"><img alt="Fedora" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" width="40" height="40"></a><a href="https://www.opensuse.org/" target="_blank"><img alt="Opensuse" src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" width="40" height="40"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></a></p>
 
 <p align="center">
-  <a href="https://archlinux.org/" target="_blank"><img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat-square&logo=Arch Linux&logoColor=white"></a>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img alt="Emacs" src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=GNU Emacs&logoColor=white"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"></a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/emacs/" target="_blank"><img alt="Emacs" src="https://img.shields.io/badge/--blue?style=flat&logo=GNU Emacs&logoColor=white" width="50" height="40"></a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
-  <a href="https://www.java.com/en/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white"></a>
-  <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://golang.org/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"></a>
-    <a href="" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
-    <a href="https://isocpp.org/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white"></a>
-</p>
-  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </a></p>
+
 <p align="center">  
-  <a href="" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
-  <a href="" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-___
+<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+---
+
 <details>
 <summary>Click for Stats</summary>
   <p align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corentings&show_icons=true&locale=en" alt="corentings" /></p>
       <img alt = "GitHub Stats" src="https://github.com/CorentinGS/CorentinGS/blob/main/github-metrics.svg">
   </p>
-</details>
-
-
-
