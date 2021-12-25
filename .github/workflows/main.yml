@@ -18,7 +18,7 @@ jobs:
           plugin_la nguages_threshold: 2%                              
           plugin_languages_limit: 6                                   
           plugin_languages_sections: most-used   
-          plugin_languages_indepth: yes   
+          plugin_languages_indepth: no   
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
@@ -29,5 +29,7 @@ jobs:
           plugin_people_size: 28                     # Size in pixels of displayed avatars
           plugin_people_identicons: no               # Use avatars (do not use identicons)
           plugin_people_thanks: joelgiaufer
+          repositories_affiliations: owner, collaborator, organization_member 
+
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
