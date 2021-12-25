@@ -18,7 +18,7 @@ jobs:
           plugin_la nguages_threshold: 2%                              
           plugin_languages_limit: 6                                   
           plugin_languages_sections: most-used   
-          plugin_languages_indepth: no   
+          plugin_languages_indepth: yes   
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: B
