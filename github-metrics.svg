@@ -318,7 +318,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="field error">API returned undefined</div>
+                        <div class="field error">API returned 404</div>
                     </section>
                 </div>
             </section>
@@ -593,7 +593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2022, 00:38:33  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 12:15:26  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
