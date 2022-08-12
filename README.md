@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Corentin GS</h1>
+<h1 align="center">Hi 👋, I'm Corentin Giaufer Saubert</h1>
 <h3 align="center"><i>A passionate Student at <a href= "https://univ-cotedazur.fr/">Université Côte d'Azur</a></i></h3>
 
 ---
