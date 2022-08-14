@@ -1,0 +1,57 @@
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button {
+    border-radius: 100px;
+    background-color: #9b59b6;
+  }
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  /* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.section {
+    padding: 8rem 0 7rem;
+    text-align: center;
+  }
+  .section-heading,
+  .section-description {
+    margin-bottom: 1.2rem;
+  }
+  
+
+  /* Hero
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.hero {
+    background-color: #bdc3c7;
+    font-family: "Montserrat", sans-serif;
+}
+
+.hero-heading {
+    font-family: "Lexend", cursive;
+    font-size: 5rem;
+  }
+
+.image {
+    position: relative;
+  }
+  .icon {
+    position: relative;
+    max-width: 80%;
+  }
+
+
+
+/* Intro
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.intro {
+    background-color: #ecf0f1;
+    font-family: "Montserrat", sans-serif;
+}
+
+.intro p {
+    font-size: 2rem;
+
+}
+
