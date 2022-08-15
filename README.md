@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Common Lisp** and **Apache Kafka**
 - ☕ I’m creating a friendly community on **[discord](https://discord.gg/VBxbhsmv3y)**
 
-- 👨‍💻 All of my projects are available at [https://corentings.github.io/](https://corentings.github.io/)
+- 👨‍💻 All of my projects are available at [https://corentings.vercel.app/](https://corentings.vercel.app/)
 
 - 📝 I regularly write articles on [https://corentings.github.io/blog/](https://corentings.github.io/blog/)
 
