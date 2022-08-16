@@ -12,13 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://corentings.vercel.app/](https://corentings.vercel.app/)
 
-- 📝 I regularly write articles on [https://corentings.github.io/blog/](https://corentings.github.io/blog/)
+- 📝 I regularly write articles on [https://corentings.vercel.app/blog](https://corentings.vercel.app/blog)
 
 - 💬 Ask me about **GNU/Linux or The Little Prince**
 
 - 📫 How to reach me **c.giaufersaubert@outlook.com**
-
-- 📄 Know about my experiences [https://corentings.github.io/about/](https://corentings.github.io/about/)
 
 <h3 align="left">🦊 Connect with me:</h3>
 <p align="left">
