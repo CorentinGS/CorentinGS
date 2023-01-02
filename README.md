@@ -11,7 +11,10 @@
 </a>  
 <a href="https://discordapp.com/users/282233191916634113" target="_blank">
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a rel="me" href="https://hachyderm.io/@TheLittlePrince">
+<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109621084095978792?domain=https%3A%2F%2Fhachyderm.io%2F&label=mastodon&style=for-the-badge">
+</a>
 </div>  
 
 --- 
