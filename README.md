@@ -21,7 +21,7 @@
 
   
 
-### <div align="center">A passionate Student at <a href= "https://univ-cotedazur.fr/">Université Côte d'Azur</a></div>  
+### <div align="center">A passionate Student at <a href= "https://iu.org/">IU </a></div>  
 
 [![@corentings's Holopin board](https://holopin.me/corentings)](https://holopin.io/@corentings)
 
@@ -38,7 +38,7 @@
 - ✴️〞I love coding in Go  
   
 
-- 🐧〞I'm a [Void linux](https://voidlinux.org/) user  
+- 🐧〞I'm a [Void linux](https://voidlinux.org/) and [Fedora](https://getfedora.org/) user  
   
 
 - 📝〞I regularly write articles on [my blog](https://corentings.vercel.app/blog) and [twitter](https://twitter.com/GSCorentinDev)  
