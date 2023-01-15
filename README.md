@@ -1,25 +1,26 @@
 # <div align="center">Hi 👋, I'm Corentin Giaufer Saubert</div>  
 <div align="center">
-<a href="https://github.com/corentings" target="_blank">
+<a rel="me" href="https://github.com/corentings" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/GSCorentinDev" target="_blank">
+<a rel="me" href="https://twitter.com/GSCorentinDev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/corentin-giaufer-saubert" target="_blank">
+<a rel="me" href="https://linkedin.com/in/corentin-giaufer-saubert" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://discordapp.com/users/282233191916634113" target="_blank">
+<a rel="me" href="https://discordapp.com/users/282233191916634113" target="_blank">
 <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a rel="me" href="https://hachyderm.io/@TheLittlePrince">
-<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109621084095978792?domain=https%3A%2F%2Fhachyderm.io%2F&label=mastodon&style=for-the-badge">
+<img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-002E5F?style=for-the-badge&logo=Mastodon&logoColor=white">
+</a>
+<a>
+<img rel="me" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FCorentinGS%2FCorentinGS.json%3Fcolor%3Dpink&style=for-the-badge">
 </a>
 </div>  
 
 --- 
-
-  
 
 ### <div align="center">A passionate Student at <a href= "https://iu.org/">IU </a></div>  
 
@@ -48,6 +49,11 @@
   
 
 <br/>  
+
+## My latest blog posts
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
 
 
 ## 🛠️ My Skill Set  
