@@ -31,10 +31,9 @@ I've created a nice **dev community on [Discord](https://corentings.vercel.app/d
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Goroutine vs Simple function](https://corentings.vercel.app/blog/mergesort-parallel/)
+- [Merge Sort using Goroutines](https://corentings.vercel.app/blog/mergesort-parallel/)
 - [Goroutine vs Simple function](https://corentings.vercel.app/blog/simple-go-vs-goroutines/)
 - [How to optimize a Go deployment with Docker](https://corentings.vercel.app/blog/docker-and-go/)
-- [My First Post](https://corentings.vercel.app/blog/first/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
