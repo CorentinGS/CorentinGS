@@ -1,10 +1,10 @@
-<a href="https://corentings.vercel.app">
+<a href="https://corentings.dev">
 <img src="https://media.licdn.com/dms/image/D4E16AQHywlcAuX1GaA/profile-displaybackgroundimage-shrink_350_1400/0/1673172467481?e=1679529600&v=beta&t=1yO4Pt1WVKK4jWJXUTcY2Os5hbIKHj2w34v7s2rkTOg">
 
 </a>
 <br/>
 <p align="center">
-  <a rel="me" href="https://corentings.vercel.app/links">
+  <a rel="me" href="https://corentings.dev/links">
     <img src="https://skillicons.dev/icons?i=discord,mastodon,twitter,github,linkedin&theme=dark" />
 
   </a>
@@ -20,11 +20,11 @@ Currently, I'm studying for a BSC. Computer Science at [IU](https://iu.org) and 
 
 #### My favorite techniques:
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,kotlin,haskell&theme=dark)](https://corentings.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,kotlin,haskell&theme=dark)](https://corentings.dev)
 
-I've created a nice **dev community on [Discord](https://corentings.vercel.app/discord)**, feel free to join us!
+I've created a nice **dev community on [Discord](https://corentings.dev/discord)**, feel free to join us!
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://corentings.vercel.app/discord)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://corentings.dev/discord)
 
 <br/>
 
