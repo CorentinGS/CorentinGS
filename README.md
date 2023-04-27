@@ -1,8 +1,4 @@
-<a href="https://corentings.dev">
-<img src="https://media.licdn.com/dms/image/D4E16AQHywlcAuX1GaA/profile-displaybackgroundimage-shrink_350_1400/0/1673172467481?e=1679529600&v=beta&t=1yO4Pt1WVKK4jWJXUTcY2Os5hbIKHj2w34v7s2rkTOg">
 
-</a>
-<br/>
 <p align="center">
   <a rel="me" href="https://corentings.dev/links">
     <img src="https://skillicons.dev/icons?i=discord,mastodon,twitter,github,linkedin&theme=dark" />
