@@ -10,7 +10,7 @@
 
 ## 👋 Hi there,
 
-I'm **Corentin GS**, a 20 years old self-taught developer from France 🇫🇷.
+I'm **Corentin GS**, a 21 years old self-taught developer from France 🇫🇷.
 
 Currently, I'm studying for a BSC. Computer Science at [IU](https://iu.org) and I'm also working as a **freelance backend developer.**
 
