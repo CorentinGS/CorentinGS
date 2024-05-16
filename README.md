@@ -1,16 +1,7 @@
 
-<p align="center">
-  <a rel="me" href="https://corentings.dev/links">
-    <img src="https://skillicons.dev/icons?i=discord,mastodon,twitter,github,linkedin&theme=dark" />
-
-  </a>
-</p>
-
----
-
 ## 👋 Hi there,
 
-I'm **Corentin GS**, a 21 years old self-taught developer from France 🇫🇷.
+I'm **Corentin GS**, a 21 years old self-taught developer from France.
 
 Currently, I'm studying for a BSC. Computer Science at [IU](https://iu.org) and I'm also working as a **freelance backend developer.**
 
@@ -46,6 +37,10 @@ I've created a nice **dev community on [Discord](https://corentings.dev/discord)
 - [c learning](https://github.com/CorentinGS/C-Learning) - A collection of C useful resources.
 - [discord updater](https://github.com/CorentinGS/discordUpdater) - A gtk4 app to update your Discord app on Linux.
 - [blog](https://github.com/CorentinGS/corentings.github.io) - My blog source code.
+
+## Where to find me 
+
+<p><a href="https://github.com/corentings" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/GSCorentinDev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/corentin-giaufer-saubert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔥 My Stats
 
