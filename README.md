@@ -27,11 +27,11 @@ I've created a nice **dev community on [Discord](https://corentings.dev/discord)
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the Sum of Squares Problem: Unraveling Goroutine Misuse and Optimizing Performance](https://corentings.dev/blog/optimizing-goroutines-sum-of-squares/)
-- [Upgrading to dnf5: A step-by-step guide for Fedora users](https://corentings.dev/blog/dnf5-step-by-step/)
+- [Crafting the Chiquier Niois Website](https://corentings.dev/blog/crafting-the-chiquier-niois-website/)
+- [Solving the Sum of Squares Problem: Optimizing Performance](https://corentings.dev/blog/optimizing-goroutines-sum-of-squares/)
+- [DNF5 Step-by-Step](https://corentings.dev/blog/dnf5-step-by-step/)
 - [Merge Sort using Goroutines](https://corentings.dev/blog/mergesort-parallel/)
-- [Goroutine vs Simple function](https://corentings.dev/blog/simple-go-vs-goroutines/)
-- [How to optimize a Go deployment with Docker](https://corentings.dev/blog/docker-and-go/)
+- [Simple Go vs. Goroutines](https://corentings.dev/blog/simple-go-vs-goroutines/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
