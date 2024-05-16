@@ -5,15 +5,12 @@
 
 Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
----
+
 
 #### My favorite techniques:
 
 [![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,htmx,python,linux,&theme=dark)](https://corentings.dev)
 
-I've created a nice **dev community on [Discord](https://corentings.dev/discord)**, feel free to join us!
-
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://corentings.dev/discord)
 
 <br/>
 
@@ -40,7 +37,13 @@ I've created a nice **dev community on [Discord](https://corentings.dev/discord)
 
 ## How to contact me 
 
-<p><a href="https://github.com/corentings" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/intent/follow?screen_name=GSCorentinDev&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/corentin-giaufer-saubert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p>
+<a href="https://github.com/corentings" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/intent/follow?screen_name=GSCorentinDev&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/corentin-giaufer-saubert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://corentings.dev" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
+<a href="mailto:freelance@corentings.dev" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
+</p>
 
 ## 🔥 My Stats
 
