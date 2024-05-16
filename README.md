@@ -75,8 +75,8 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 <br/>
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corentings&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=corentings&theme=material_palenight)
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corentings&theme=material_palenight"/></a>
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=corentings&theme=material_palenight"/></a>
 </div>
 
 <br/>
