@@ -1,17 +1,15 @@
 
-## 👋 Hi there,
-
-I'm **Corentin GS**, a 21 years old self-taught developer from France.
-
-Currently, I'm studying for a BSC. Computer Science at [IU](https://iu.org) and I'm also working as a **freelance backend developer.**
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=2299F7&multiline=true&random=false&width=435&lines=%22Some+part+of+a+mistake+is+always+correct%22;-+Savielly+Tartakover" alt="Typing SVG" /></a>
+
+---
+
+Freelance / Work inquiries : <a href="mailto:freelance@corentings.dev"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 
 ---
 
 #### My favorite techniques:
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,kotlin,haskell&theme=dark)](https://corentings.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,htmx,python,linux,&theme=dark)](https://corentings.dev)
 
 I've created a nice **dev community on [Discord](https://corentings.dev/discord)**, feel free to join us!
 
@@ -40,7 +38,7 @@ I've created a nice **dev community on [Discord](https://corentings.dev/discord)
 - [discord updater](https://github.com/CorentinGS/discordUpdater) - A gtk4 app to update your Discord app on Linux.
 - [blog](https://github.com/CorentinGS/corentings.github.io) - My blog source code.
 
-## Where to find me 
+## How to contact me 
 
 <p><a href="https://github.com/corentings" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/intent/follow?screen_name=GSCorentinDev&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/corentin-giaufer-saubert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
