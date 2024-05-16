@@ -26,6 +26,7 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 <a><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 <a><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a><img alt="OpenSuse" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/></a>
+<a><img alt="OCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=OCIe&color=262261&logo=Open+Containers+Initiative&logoColor=white"/></a>
 
 
 </p>
@@ -48,7 +49,7 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 ## Some of my projects
 
 - [memnix](https://github.com/memnix) - A spaced repetition system and a flashcard app.
-- [kafejo bot](https://github.com/CorentinGS/Kafejo-Bot) - A Discord bot for the [Kafejo community](https://corentings.vercel.app/discord/).
+- [chess bet](https://github.com/corentings/chessbet) - Chessbet is a unique project developing a platform for chess betting.
 - [gauntlet reborn](https://github.com/CorentinGS/gauntlet-reborn) - A remake of the classic Gauntlet game in C.
 - [c learning](https://github.com/CorentinGS/C-Learning) - A collection of C useful resources.
 - [discord updater](https://github.com/CorentinGS/discordUpdater) - A gtk4 app to update your Discord app on Linux.
