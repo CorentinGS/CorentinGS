@@ -3,7 +3,7 @@
 
 ---
 
-Freelance / Work inquiries : <a href="mailto:freelance@corentings.dev"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
 ---
 
