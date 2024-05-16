@@ -60,14 +60,6 @@ I've created a nice **dev community on [Discord](https://corentings.dev/discord)
 
 <br/>
 
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=corentings&theme=dark&background=000000" align="center" />
-</div>
-<br/>
-
-[![@corentings's Holopin board](https://holopin.me/corentings)](https://holopin.io/@corentings)
-
-<br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=t84wh5mdrj0wzr83ksly5kjhl&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>
 <br />
