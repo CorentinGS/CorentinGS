@@ -5,11 +5,21 @@
 
 Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
+<br/>
 
+#### Things I like to use:
 
-#### My favorite techniques:
+<p>
+<a><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/></a>
+<a><img alt="OpenSuse" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/></a>
+<a><img alt="ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/></a>
+<a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,htmx,python,linux,&theme=dark)](https://corentings.dev)
+<a><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<a><img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+<a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+<a><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
+</p>
 
 
 <br/>
