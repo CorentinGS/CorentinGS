@@ -14,6 +14,8 @@ I'm **Corentin GS**, a 21 years old self-taught developer from France 🇫🇷.
 
 Currently, I'm studying for a BSC. Computer Science at [IU](https://iu.org) and I'm also working as a **freelance backend developer.**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=2299F7&multiline=true&random=false&width=435&lines=%22Some+part+of+a+mistake+is+always+correct%22;-+Savielly+Tartakover" alt="Typing SVG" /></a>
+
 #### My favorite techniques:
 
 [![My Skills](https://skillicons.dev/icons?i=go,c,docker,linux,postgres,kotlin,haskell&theme=dark)](https://corentings.dev)
