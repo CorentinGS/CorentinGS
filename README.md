@@ -6,6 +6,7 @@
 Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
 <br/>
+<!-- 
 <div>
 <a>
     <img rel="me" align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=corentings&show_icons=true&count_private=true&hide_border=true&theme=radical">
@@ -32,7 +33,7 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 </p>
 </div>
 
-<br/>
+<br/> -->
 
 ## My latest blog posts
 
