@@ -6,9 +6,6 @@
 Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
 <br/>
-
-#### Things I like to use:
-
 <div>
 <a>
     <img rel="me" align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=corentings&show_icons=true&count_private=true&hide_border=true&theme=radical">
