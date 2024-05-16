@@ -26,7 +26,7 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 <a><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <a><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 <a><img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
-<a><img alt="OCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=Open+Containers+Initiative&color=262261&logo=Open+Containers+Initiative&logoColor=FFFFFF&label="/></a>
+<a><img alt="OCI" src="https://img.shields.io/static/v1?style=for-the-badge&message=OCI&color=262261&logo=Open+Containers+Initiative&logoColor=FFFFFF&label="/></a>
 <a><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/></a>
 <a><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
 <a><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
