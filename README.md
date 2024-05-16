@@ -9,6 +9,10 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
 #### Things I like to use:
 
+<div>
+<a>
+    <img rel="me" align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=corentings&show_icons=true&count_private=true&hide_border=true&theme=radical">
+</a>
 <p>
 <a><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 <a><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
@@ -28,9 +32,8 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 <a><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
 <a><img alt="OpenSuse" src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/></a>
 
-
 </p>
-
+</div>
 
 <br/>
 
