@@ -5,7 +5,8 @@
 
 Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 
-<br/>
+If you want to know more about me, you can read my manual : [rtfm](https://github.com/CorentinGS/CorentinGS/blob/main/MANUAL.md)
+
 <!-- 
 <div>
 <a>
@@ -33,7 +34,10 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 </p>
 </div>
 
-<br/> -->
+<br/> 
+-->
+
+<br/>
 
 ## My latest blog posts
 
