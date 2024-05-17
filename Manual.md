@@ -1,7 +1,8 @@
 # My User Manual: How I Work Best
 
 ## Introduction
-This user manual provides insights into my work style, preferences, and communication style to help us collaborate effectively.
+This user manual provides insights into my work style, preferences, and communication style to help us collaborate effectively. 
+
 > *"Do or do not. There is no try."* – <u>Yoda.</u>
 
 ## Work Style
@@ -45,3 +46,8 @@ This user manual provides insights into my work style, preferences, and communic
 - I value continuous learning and enjoy exploring new resources and experiences.
 
 > *"Some part of a mistake is always correct"* - <u>Savielly Tartakover.</u>
+
+## Disclaimer
+
+This is a lifetime work in progress, it might get updated from time to time. 
+This manual got inspired by the following : [swyxio](https://github.com/swyxio/README/blob/master/README.md) and [Steph Smith](https://docs.google.com/presentation/d/1I8Y4oNkrh1Ass32PNyzBYp3hL4scLiH7YWQmwvKxzlM/edit#slide=id.gf57a4075db_0_0)
