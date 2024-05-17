@@ -38,11 +38,11 @@ Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crafting the Chiquier Niois Website](https://corentings.dev/blog/crafting-the-chiquier-niois-website/)
+- [My Experience at the Karen Asrian Memorial Tournament](https://corentings.dev/blog/karen-asrian-memorial-tournament/)
+- [Crafting the Echiquier Nicois Website](https://corentings.dev/blog/crafting-the-echiquier-nicois-website/)
 - [Solving the Sum of Squares Problem: Optimizing Performance](https://corentings.dev/blog/optimizing-goroutines-sum-of-squares/)
 - [DNF5 Step-by-Step](https://corentings.dev/blog/dnf5-step-by-step/)
 - [Merge Sort using Goroutines](https://corentings.dev/blog/mergesort-parallel/)
-- [Simple Go vs. Goroutines](https://corentings.dev/blog/simple-go-vs-goroutines/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
