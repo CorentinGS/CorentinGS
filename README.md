@@ -45,7 +45,7 @@ If you want to know more about me, you can read my manual : [rtfm](https://githu
 - [My Experience at the Karen Asrian Memorial Tournament](https://corentings.dev/blog/karen-asrian-memorial-tournament/)
 - [Crafting the Echiquier Nicois Website](https://corentings.dev/blog/crafting-the-echiquier-nicois-website/)
 - [Solving the Sum of Squares Problem: Optimizing Performance](https://corentings.dev/blog/optimizing-goroutines-sum-of-squares/)
-- [DNF5 Step-by-Step](https://corentings.dev/blog/dnf5-step-by-step/)
+- [Upgrading to dnf5: A step-by-step guide for Fedora users](https://corentings.dev/blog/dnf5-step-by-step/)
 - [Merge Sort using Goroutines](https://corentings.dev/blog/mergesort-parallel/)
 <!-- BLOG-POST-LIST:END -->
 
