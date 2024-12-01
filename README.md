@@ -42,11 +42,11 @@ If you want to know more about me, you can read my manual : [rtfm](https://githu
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience at the Karen Asrian Memorial Tournament](https://corentings.dev/blog/karen-asrian-memorial-tournament/)
-- [Crafting the Echiquier Nicois Website](https://corentings.dev/blog/crafting-the-echiquier-nicois-website/)
-- [Solving the Sum of Squares Problem: Optimizing Performance](https://corentings.dev/blog/optimizing-goroutines-sum-of-squares/)
-- [Upgrading to dnf5: A step-by-step guide for Fedora users](https://corentings.dev/blog/dnf5-step-by-step/)
-- [Merge Sort using Goroutines](https://corentings.dev/blog/mergesort-parallel/)
+- [Advanced Generator Pattern: Consuming and Testing Data Streams](https://corentings.dev/blog/advanced-real-world-generator/)
+- [Advanced Generator Pattern in Go: Test Data Generation](https://corentings.dev/blog/real-world-generator/)
+- [Mastering the Generator Pattern in Go](https://corentings.dev/blog/go-pattern-generator/)
+- [Producer-Consumer in Go: Beyond the Basics](https://corentings.dev/blog/real-world-producer-consumer/)
+- [Understanding the Producer-Consumer Pattern in Go](https://corentings.dev/blog/go-pattern-producer-consumer/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
