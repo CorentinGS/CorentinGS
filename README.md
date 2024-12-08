@@ -42,11 +42,11 @@ If you want to know more about me, you can read my manual : [rtfm](https://githu
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Generator Pattern: Consuming and Testing Data Streams](https://corentings.dev/blog/advanced-real-world-generator/)
 - [Advanced Generator Pattern in Go: Test Data Generation](https://corentings.dev/blog/real-world-generator/)
 - [Mastering the Generator Pattern in Go](https://corentings.dev/blog/go-pattern-generator/)
 - [Producer-Consumer in Go: Beyond the Basics](https://corentings.dev/blog/real-world-producer-consumer/)
 - [Understanding the Producer-Consumer Pattern in Go](https://corentings.dev/blog/go-pattern-producer-consumer/)
+- [My Experience at the Karen Asrian Memorial Tournament](https://corentings.dev/blog/karen-asrian-memorial-tournament/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
