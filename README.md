@@ -42,11 +42,11 @@ If you want to know more about me, you can read my manual : [rtfm](https://githu
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flexible Approaches to Worker Pools in Go](https://corentings.dev/blog/semaphore-pattern-worker/)
-- [Mastering the Worker Pool Pattern in Go](https://corentings.dev/blog/go-pattern-worker/)
-- [Advanced Generator Pattern: Consuming and Testing Data Streams](https://corentings.dev/blog/advanced-real-world-generator/)
-- [Advanced Generator Pattern in Go: Test Data Generation](https://corentings.dev/blog/real-world-generator/)
-- [Mastering the Generator Pattern in Go](https://corentings.dev/blog/go-pattern-generator/)
+- [Flexible Approaches to Worker Pools in Go](https://corentings.dev/blog/undefined/)
+- [Mastering the Worker Pool Pattern in Go](https://corentings.dev/blog/undefined/)
+- [Advanced Generator Pattern: Consuming and Testing Data Streams](https://corentings.dev/blog/undefined/)
+- [Advanced Generator Pattern in Go: Test Data Generation](https://corentings.dev/blog/undefined/)
+- [Mastering the Generator Pattern in Go](https://corentings.dev/blog/undefined/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
