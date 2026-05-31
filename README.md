@@ -42,11 +42,11 @@ If you want to know more about me, you can read my manual : [rtfm](https://githu
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD Isn&#39;t About Bugs — It&#39;s Your Permission to Refactor](https://corentings.dev/blog/tdd-permission-slip/)
 - [Docker 29 Broke Traefik — Here&#39;s the Fix &lpar;and Why It Happened&rpar;](https://corentings.dev/blog/docker-29-traefik-fix/)
 - [Why I Built ZaString](https://corentings.dev/blog/why-i-built-zastring/)
 - [Generic Methods Coming to Go](https://corentings.dev/blog/generic-methods-coming-to-go/)
 - [I Write, I Code, I Explore — Why Verbs, Not Nouns](https://corentings.dev/blog/verbs-not-nouns/)
-- [Go Pipeline Pattern: Turning Streams into Useful Data](https://corentings.dev/blog/go-pattern-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
