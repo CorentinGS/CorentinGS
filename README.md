@@ -1,32 +1,85 @@
-Freelance / Work inquiries : [email me](mailto:freelance@corentings.dev)
+<h1 align="center">Hi, I'm Corentin 👋</h1>
 
-If you want to know more about me, you can read my manual : [rtfm](https://github.com/CorentinGS/CorentinGS/blob/main/MANUAL.md)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/43623834?v=4" width="120" alt="Corentin" />
+</p>
 
-## My latest blog posts
+<p align="center">
+  <strong>Freelance backend developer · Chess tooling · Open source</strong>
+</p>
+
+<p align="center">
+  📍 Nice, France &nbsp;·&nbsp;
+  🌐 <a href="https://corentings.dev">corentings.dev</a> &nbsp;·&nbsp;
+  📝 <a href="https://substack.com/@corentings">Substack</a> &nbsp;·&nbsp;
+  🐦 <a href="https://twitter.com/GSCorentinDev">@GSCorentinDev</a> &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/corentin-giaufer-saubert/">LinkedIn</a>
+</p>
+
+---
+
+I build things, chase pawns across boards, and write about what I find along the way. Most of my time goes into chess tooling and performance-focused libraries — Go, C#, F#, and the occasional deep dive into whatever the next project demands. I'm a freelance backend developer based in Nice, and I write about Go generics, concurrency, .NET performance, and design on my [blog](https://corentings.dev).
+
+> *"Some part of a mistake is always correct"* — Savielly Tartakover
+
+---
+
+## ♟️ Chess Ecosystem
+
+The toolchain I built for playing, parsing, and shuffling chess data at scale.
+
+| Project | What it does |
+|---|---|
+| **[chess](https://github.com/corentings/chess)** (Go) | Move generation, PGN encoding/decoding, UCI interop, checkmate detection, image rendering, opening book. The flagship. |
+| **[pgn-merger](https://github.com/corentings/pgn-merger)** (F#) | Merge gigabytes of PGN files into one database with streaming I/O and zero dependencies. |
+
+## ⚡ Performance Libraries
+
+Where I scratch the optimization itch.
+
+| Project | What it does |
+|---|---|
+| **[ZaString](https://github.com/corentings/ZaString)** (C#) | Zero-allocation string manipulation for .NET 9+ using `Span<T>` and `ReadOnlySpan<T>`. |
+| **[safeconversion](https://github.com/corentings/safeconversion)** (Go) | Safe, explicit type casting — no more silent truncation. |
+
+## 🛠 Developer Tools
+
+Stuff that makes my own (and other people's) work easier.
+
+| Project | What it does |
+|---|---|
+| **[unicornnet](https://github.com/corentings/unicornnet)** (C#) | Modern, type-safe .NET binding for the Unicorn CPU Emulator Engine. Coming soon to NuGet. |
+| **[Alicorn](https://corentings.dev/projects/alicorn/)** (C# / .NET 10) | Native x64-to-C# transpiler for fast runtime execution. _Forthcoming._ |
+
+## 🌐 Applications & Side Projects
+
+Smaller things I keep shipping on the side — apps, sites, experiments.
+
+- **[Kanji Miner](https://kanji.corentings.dev)** — Japanese kanji mining tool with Anki deck export.
+- **[stouuf.net](https://stouuf.net)** — Website built with Astro and Tailwind.
+
+## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Merge PGN Files in F#: Streaming, Performance, and Discriminated Unions](https://corentings.dev/blog/merge-pgn-files-fsharp/)
-- [Why Japanese Websites Look Overloaded: Density, Tokyo, and Trust](https://corentings.dev/blog/ux-japan-1/)
-- [TDD Isn&#39;t About Bugs — It&#39;s Your Permission to Refactor](https://corentings.dev/blog/tdd-permission-slip/)
-- [Docker 29 Broke Traefik — Here&#39;s the Fix &lpar;and Why It Happened&rpar;](https://corentings.dev/blog/docker-29-traefik-fix/)
-- [Why I Built ZaString](https://corentings.dev/blog/why-i-built-zastring/)
 <!-- BLOG-POST-LIST:END -->
 
-## Some of my projects
+## ✍️ Writing & Elsewhere
 
-- [memnix](https://github.com/memnix) - A spaced repetition system and a flashcard app.
-- [chess bet](https://github.com/corentings/chessbet) - Chessbet is a unique project developing a platform for chess betting.
-- [gauntlet reborn](https://github.com/CorentinGS/gauntlet-reborn) - A remake of the classic Gauntlet game in C.
-- [c learning](https://github.com/CorentinGS/C-Learning) - A collection of C useful resources.
-- [discord updater](https://github.com/CorentinGS/discordUpdater) - A gtk4 app to update your Discord app on Linux.
-- [blog](https://github.com/CorentinGS/corentings.github.io) - My blog source code.
+- **[Blog](https://corentings.dev)** — Long-form on Go, .NET, performance, design.
+- **[Substack](https://substack.com/@corentings)** — Less structured, more frequent.
+- **[MANUAL.md](https://github.com/CorentinGS/CorentinGS/blob/main/MANUAL.md)** — How I work best.
 
-## How to contact me 
+---
+
+## ☕ Work with me
+
+Freelance backend work · chess tooling · performance-focused libraries. Based in Nice, open to remote. → [freelance@corentings.dev](mailto:freelance@corentings.dev)
 
 <p>
-<a href="https://github.com/corentings" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/intent/follow?screen_name=GSCorentinDev&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/corentin-giaufer-saubert/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://corentings.dev" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
-<a href="mailto:freelance@corentings.dev" target="_blank"><img alt="Personal Website" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
+  <a href="https://github.com/corentings"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/GSCorentinDev"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/corentin-giaufer-saubert/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://corentings.dev"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://substack.com/@corentings"><img alt="Substack" src="https://img.shields.io/badge/Substack-%23006f5c.svg?&style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="mailto:freelance@corentings.dev"><img alt="Email" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
