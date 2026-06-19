@@ -1,15 +1,10 @@
 <h1 align="center">Hi, I'm Corentin 👋</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/43623834?v=4" width="120" alt="Corentin" />
-</p>
-
-<p align="center">
   <strong>Freelance backend developer · Chess tooling · Open source</strong>
 </p>
 
 <p align="center">
-  📍 Nice, France &nbsp;·&nbsp;
   🌐 <a href="https://corentings.dev">corentings.dev</a> &nbsp;·&nbsp;
   📝 <a href="https://substack.com/@corentings">Substack</a> &nbsp;·&nbsp;
   🐦 <a href="https://twitter.com/GSCorentinDev">@GSCorentinDev</a> &nbsp;·&nbsp;
@@ -18,15 +13,15 @@
 
 ---
 
-I build things, chase pawns across boards, and write about what I find along the way. Most of my time goes into chess tooling and performance-focused libraries — Go, C#, F#, and the occasional deep dive into whatever the next project demands. I'm a freelance backend developer based in Nice, and I write about Go generics, concurrency, .NET performance, and design on my [blog](https://corentings.dev).
+I build things, chase pawns across boards, and write about what I find along the way. Most of my time goes into chess tooling and performance-focused libraries — Go, C#, F#, and whatever the next project demands. I'm a freelance backend developer based in Nice, and I write about Go generics, concurrency, .NET performance, and design on my [blog](https://corentings.dev).
 
 > *"Some part of a mistake is always correct"* — Savielly Tartakover
 
 ---
 
-## ♟️ Chess Ecosystem
+## ♟️ Chess Toolchain
 
-The toolchain I built for playing, parsing, and shuffling chess data at scale.
+The toolchain I built for playing, parsing, and shuffling chess data.
 
 | Project | What it does |
 |---|---|
@@ -48,7 +43,7 @@ Stuff that makes my own (and other people's) work easier.
 
 | Project | What it does |
 |---|---|
-| **[unicornnet](https://github.com/corentings/unicornnet)** (C#) | Modern, type-safe .NET binding for the Unicorn CPU Emulator Engine. Coming soon to NuGet. |
+| **[unicornnet](https://github.com/corentings/unicornnet)** (C#) | Type-safe .NET binding for the Unicorn CPU Emulator Engine. Coming soon to NuGet. |
 | **[Alicorn](https://corentings.dev/projects/alicorn/)** (C# / .NET 10) | Native x64-to-C# transpiler for fast runtime execution. _Forthcoming._ |
 
 ## 🌐 Applications & Side Projects
@@ -78,7 +73,7 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 
 ## ☕ Work with me
 
-Freelance backend work · chess tooling · performance-focused libraries. Based in Nice, open to remote. → [freelance@corentings.dev](mailto:freelance@corentings.dev)
+Freelance backend work · chess tooling · performance-focused libraries. Open to remote. → [freelance@corentings.dev](mailto:freelance@corentings.dev)
 
 <p>
   <a href="https://github.com/corentings"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
