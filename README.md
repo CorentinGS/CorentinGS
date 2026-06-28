@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond PGN: Designing an Ultra-Efficient Chess Storage Format](https://corentings.dev/blog/beyond-pgn-chess-storage-format/)
 - [Beyond Minimalism: A Japanese-Inspired UX for the Web](https://corentings.dev/blog/ux-japan-3/)
 - [Context and Cancellation in Go: A Practical Guide](https://corentings.dev/blog/go-context-cancellation/)
 - [How to Merge PGN Files in F#: Streaming, Performance, and Discriminated Unions](https://corentings.dev/blog/merge-pgn-files-fsharp/)
 - [What Western UX Can Learn from Japanese Web Design](https://corentings.dev/blog/ux-japan-2/)
-- [Why Japanese Websites Look Overloaded: Density, Tokyo, and Trust](https://corentings.dev/blog/ux-japan-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
