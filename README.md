@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Goroutines vs C# async/await: Who Carries the Cognitive Load?](https://corentings.dev/blog/go-vs-csharp-concurrency/)
+- [Value Objects &amp; Entities in TypeScript: Building Blocks That Can&#39;t Break](https://corentings.dev/blog/tdd-value-objects-entities/)
 - [Beyond PGN: Designing an Ultra-Efficient Chess Storage Format](https://corentings.dev/blog/beyond-pgn-chess-storage-format/)
 - [Beyond Minimalism: A Japanese-Inspired UX for the Web](https://corentings.dev/blog/ux-japan-3/)
-- [Context and Cancellation in Go: A Practical Guide](https://corentings.dev/blog/go-context-cancellation/)
-- [How to Merge PGN Files in F#: Streaming, Performance, and Discriminated Unions](https://corentings.dev/blog/merge-pgn-files-fsharp/)
-- [What Western UX Can Learn from Japanese Web Design](https://corentings.dev/blog/ux-japan-2/)
+- [Context and Cancellation in Go: Stopping Work That Shouldn&#39;t Have Started](https://corentings.dev/blog/go-context-cancellation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
