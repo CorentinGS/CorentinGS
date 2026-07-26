@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Lessons from The Code of the Extraordinary Mind](https://corentings.dev/blog/what-the-code-of-the-extraordinary-mind-changed-how-i-see-the-world/)
+- [DDD Aggregate Boundaries and Persistence in TypeScript](https://corentings.dev/blog/tdd-ddd-bonus/)
 - [OpenTelemetry Go Compile-Time with otelc](https://corentings.dev/blog/go-otel-compile-time-v1/)
 - [Repository Updates in TypeScript: Locks and Optimistic Concurrency](https://corentings.dev/blog/tdd-repository-bonus/)
 - [Beyond Unicorn: Why I Code-Gen Instead of Emulating](https://corentings.dev/blog/beyond-unicorn-alicorn-codegen/)
-- [Go Concurrency Patterns: A Practical Reading Order](https://corentings.dev/blog/go-concurrency-patterns/)
-- [TypeScript DDD Aggregates &amp; Repositories](https://corentings.dev/blog/tdd-aggregates-repositories/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
