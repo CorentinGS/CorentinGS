@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Lessons from The Code of the Extraordinary Mind](https://corentings.dev/blog/what-the-code-of-the-extraordinary-mind-changed-how-i-see-the-world/)
-- [DDD Aggregate Boundaries and Persistence in TypeScript](https://corentings.dev/blog/tdd-ddd-bonus/)
-- [OpenTelemetry Go Compile-Time with otelc](https://corentings.dev/blog/go-otel-compile-time-v1/)
-- [Repository Updates in TypeScript: Locks and Optimistic Concurrency](https://corentings.dev/blog/tdd-repository-bonus/)
-- [Beyond Unicorn: Why I Code-Gen Instead of Emulating](https://corentings.dev/blog/beyond-unicorn-alicorn-codegen/)
+- [TDD in the Age of AI: Who Tests the Tests?](https://corentings.dev/blog/tdd-age-of-ai/)
+- [Building a Custom OpenTelemetry Collector in Go](https://corentings.dev/blog/go-otel-collector-custom/)
+- [The Result Pattern: Why I Stopped Throwing Exceptions](https://corentings.dev/blog/tdd-result-pattern-error-handling/)
+- [How I Use Three Questions to Unstick Hard Decisions](https://corentings.dev/blog/how-i-use-three-questions-to-unstick-hard-decisions/)
+- [I Stopped Mocking Everything in TDD](https://corentings.dev/blog/tdd-stop-mocking-everything/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
