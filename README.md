@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PostgreSQL Was Down Again: Rebuilding LLM Trace Ingestion](https://corentings.dev/blog/postgresql-was-down-again/)
+- [The Discipline of Returning](https://corentings.dev/blog/the-discipline-of-returning/)
 - [GitHub Stacked Pull Requests: What Changed in Preview](https://corentings.dev/blog/github-stacked-pull-requests-public-preview/)
 - [You Are Only as Good as Your Next Pass](https://corentings.dev/blog/you-are-only-as-good-as-your-next-pass/)
 - [TDD in the Age of AI: Who Tests the Tests?](https://corentings.dev/blog/tdd-age-of-ai/)
-- [Building a Custom OpenTelemetry Collector in Go](https://corentings.dev/blog/go-otel-collector-custom/)
-- [The Result Pattern: Why I Stopped Throwing Exceptions](https://corentings.dev/blog/tdd-result-pattern-error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
