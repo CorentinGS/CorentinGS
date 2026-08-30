@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Rejects Records Over 1 MB. LLM Spans Do Not Care.](https://corentings.dev/blog/kafka-rejects-records-over-1-mb/)
+- [Learn Backward. Act Forward.](https://corentings.dev/blog/learn-backward-act-forward/)
 - [We Put Full-Text Search in PostgreSQL, Then ClickHouse. Both Were the Wrong Place.](https://corentings.dev/blog/postgresql-clickhouse-quickwit-text-search/)
 - [Begin Again Without Pretending Nothing Happened](https://corentings.dev/blog/begin-again-without-pretending-nothing-happened/)
 - [PostgreSQL Was Down Again: Rebuilding LLM Trace Ingestion](https://corentings.dev/blog/postgresql-was-down-again/)
-- [The Discipline of Returning](https://corentings.dev/blog/the-discipline-of-returning/)
-- [GitHub Stacked Pull Requests: What Changed in Preview](https://corentings.dev/blog/github-stacked-pull-requests-public-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
