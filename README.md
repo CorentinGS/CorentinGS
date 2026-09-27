@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Five ClickHouse Decisions for LLM Trace Analytics](https://corentings.dev/blog/clickhouse-decisions-llm-trace-analytics/)
 - [GitHub Stacked Pull Requests: First Stack to Partial Merge](https://corentings.dev/blog/first-github-stacked-pull-request/)
 - [When One Go Binary Beats Three Separate Kubernetes Services](https://corentings.dev/blog/one-go-binary-three-services/)
 - [Streaming OTLP JSON in Go Without Loading the Payload](https://corentings.dev/blog/streaming-otlp-json-go/)
 - [Why I Built the Plywise Chessboard Library From Scratch](https://corentings.dev/blog/plywise-chessboard/)
-- [Kafka Rejects Records Over 1 MB. LLM Spans Do Not Care.](https://corentings.dev/blog/kafka-rejects-records-over-1-mb/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
