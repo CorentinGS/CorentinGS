@@ -56,11 +56,11 @@ Smaller things I keep shipping on the side — apps, sites, experiments.
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Control Review and CI Costs When Adopting Stacked PRs](https://corentings.dev/blog/adopting-stacked-prs-without-more-ci/)
 - [La France ne se rendra pas](https://corentings.dev/blog/la-france-ne-se-rendra-pas/)
 - [Trace IDs Are Opaque. Storage Still Needs a Time Signal.](https://corentings.dev/blog/otel-trace-ids-opaque/)
 - [Git Branches vs Jujutsu Changes: Two Models for Stacks](https://corentings.dev/blog/github-branches-vs-jujutsu-changes/)
 - [Out-of-Order Traces: Redis Timestamp Coordination Model](https://corentings.dev/blog/traces-arrive-out-of-order/)
-- [Stacked Changes with Jujutsu: The Local Graph GitHub Misses](https://corentings.dev/blog/stacked-changes-with-jujutsu/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✍️ Writing & Elsewhere
